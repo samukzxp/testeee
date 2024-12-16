@@ -1,0 +1,15 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "Projeto de exemplo com Venom e Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "install": "npm install"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "venom-bot": "^5.1.0"
+  }
+}
